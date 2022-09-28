@@ -17,3 +17,4 @@ Shows how much and what types of energy are consumed by buildings, industry, and
 A projection of future enery consuption is shown.
 Includes CO2 emission by final consumption type.
 
+![](https://github.com/Wickeler/Global_Power_Generation/blob/main/Energy_Consumption_Data.jpg)
