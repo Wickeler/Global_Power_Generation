@@ -10,7 +10,7 @@ World map with groupings shown in appendix C. Figure C.1
 Shows how much electricity is generated per geographical area
 Shows a projection for future electricity generation types and amount globally
 
-![](Global%20Electricity%20Generation%20Methods.jpg)
+![](Global_Electricity_Generation_Methods.jpg)
 
 Sheet 2: Energy Consumption Data
 Shows how much and what types of energy are consumed by buildings, industry, and transportation. 
